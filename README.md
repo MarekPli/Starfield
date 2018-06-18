@@ -9,3 +9,5 @@ The idea of Processing is to use a pair of functions: setup (create canvas and d
 There is an array of stars (one object type Star, not a class Star) in the separate file "star.js". The picture is updating continuously, using "update" function.
 
 All ideas of Daniel Shiffman were realized. The program creates randomly 800 stars on a 800x800 canvas. The stars are groving and go from the centre to the external frontiers of the Universe. We can modify our speed and kind of view as above explained, simply by move a mouse cursor horizontally and vertically (original Shiffman's pattern: horizontally only).
+
+jp.5 library included, although we may receive it from https://p5js.org/download/
