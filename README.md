@@ -1,5 +1,5 @@
 # Starfield 
-This is modification of Daniel Shiffman's first lesson of "Coding Challenge', namely "Starfield in Processing". He had used p5.js library with Processing, while I had to use it with normal js language, excluding classes and many global variables.
+This is modification of Daniel Shiffman's first lesson of "Coding Challenge', namely "Starfield in Processing", being a cycle of exercises in Javascript, trying to prepare a complete js program during ten minutes only... He had used p5.js library with Processing, while I had to use it with normal js language, excluding classes and many global variables.
 
 We are flying by the night sky, all around the stars, like in a super starship.
 
@@ -11,3 +11,5 @@ There is an array of stars (one object type Star, not a class Star) in the separ
 All ideas of Daniel Shiffman were realized. The program creates randomly 800 stars on a 800x800 canvas. The stars are groving and go from the centre to the external frontiers of the Universe. We can modify our speed and kind of view as above explained, simply by move a mouse cursor horizontally and vertically (original Shiffman's pattern: horizontally only).
 
 jp.5 library included, although we may receive it from https://p5js.org/download/
+
+The "Coding Challenge" lectures are available in youtube.
