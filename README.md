@@ -1,5 +1,5 @@
 # Starfield 
-This is modification of Daniel Shiffman's first lesson of "Coding Challenge', namely "Starfield in Processing", being a cycle of exercises in Javascript, trying to prepare a complete js program during ten minutes only... He had used p5.js library with Processing, while I had to use it with normal js language, excluding classes and many global variables.
+This is modification of Daniel Shiffman's first lesson of "Coding Challenge', namely "Starfield in Processing" (e.g. https://www.youtube.com/watch?v=17WoOqgXsRM), being a cycle of exercises in Javascript, trying to prepare a complete js program during ten minutes only... He had used p5.js library with Processing, while I had to use it with normal js language, excluding classes and many global variables.
 
 We are flying by the night sky, all around the stars, like in a super starship.
 
